@@ -48,8 +48,8 @@ yarn start
 ## ✨ Key Features
 
 - 🎮 **Classic 2048 gameplay** with smooth animations and intuitive controls
-- 💾 **High score saving** using `localStorage`
-- 🧠 **Responsive keyboard & touch support** for desktop and mobile play
-- 📱 **Fully responsive layout** – playable on all screen sizes
-- ♻️ **Restart & undo options** for better control and replayability
-- 🔁 **Auto tile merge logic** handled dynamically through JavaScript
+- 🔁 **Restart Anytime** - Easily reset the board to start a new game with a single click
+- 🧮 **Score Tracking** - Real-time score updates and a high score tracker to challenge yourself
+- 🎨 **Clean UI & UX** - Simple, modern interface with focus on usability and clarity
+- ⚙️ **Lightweight & Fast** - No external libraries or frameworks, ensuring fast load times and smooth performance
+- 🧩 **Modular Code Structure** - Easy to read, maintain, and extend if you want to add custom features
